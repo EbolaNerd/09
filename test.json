@@ -1,0 +1,46 @@
+{
+  "numTotalTestSuites": 2,
+  "numPassedTestSuites": 2,
+  "numFailedTestSuites": 0,
+  "numPendingTestSuites": 0,
+  "numTotalTests": 2,
+  "numPassedTests": 2,
+  "numFailedTests": 0,
+  "numPendingTests": 0,
+  "numTodoTests": 0,
+  "startTime": 1693897041431,
+  "success": true,
+  "testResults": [
+    {
+      "assertionResults": [
+        {
+          "ancestorTitles": [
+            "",
+            "MainContent"
+          ],
+          "fullName": " MainContent should render a button",
+          "status": "passed",
+          "title": "should render a button",
+          "duration": 27,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            "",
+            "MainContent"
+          ],
+          "fullName": " MainContent should show the help area after clicking the button",
+          "status": "passed",
+          "title": "should show the help area after clicking the button",
+          "duration": 26,
+          "failureMessages": []
+        }
+      ],
+      "startTime": 1693897045874,
+      "endTime": 1693897045927,
+      "status": "passed",
+      "message": "",
+      "name": "/Users/LAWO/Documents/repositories/learn-github-action/09 Starting Project/src/components/MainContent.test.jsx"
+    }
+  ]
+}
